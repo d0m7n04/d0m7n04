@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hellö there :)
 
-<!--
-**d0m7n04/d0m7n04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile description! I don't know why but it seems you want to learn more about me. So, there we go!
 
-Here are some ideas to get you started:
+At the time of this writing I am 20 years old, employed as a software developer while at the same time studying for a degree in information and communication systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical skills
+So far I gained experience in:
+- C#
+- Java
+- Python
+- C
+- Web
+  - HTML
+  - CSS
+  - JS/TypeScript (JQuery, Vue.js)
+- SQL (MySQL, PL/SQL, T-SQL)
+
+### Hobbies
+I can't get enough of:
+- playing the piano
+- trying to improve my photography skills
+- playing video games (especially **Rocket League** 🤯)
+
+Thanks for reading! :D
